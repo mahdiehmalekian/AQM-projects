@@ -1,3 +1,6 @@
+* "Arrival-delay-Final Analysis.ipynb" contains my analysis of clustering ~500K delay events of Translink in 2016, and "Arrival-delay-Clusters-Analysis.pdf" is a chart depicting 'defining features'
+of each cluster.
+
 
 ## Delay Events Metadata
 <b> duration: </b>The total time in seconds that the delay event lasted
