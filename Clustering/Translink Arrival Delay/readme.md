@@ -1,4 +1,9 @@
-* "Arrival-delay-Final Analysis.ipynb" contains my analysis of clustering ~500K delay events of Translink in 2016, and "Arrival-delay-Clusters-Analysis.pdf" is a chart depicting 'defining features'
+This repo contains my project for clustering on Translink's delay events in September through December 2016.
+
+* "Arrival-delay-Data Cleaning" contains my data cleaning of the data
+* "Choosing clustering method" contains my codes for choosing the best clustering method to apply to the problem.
+* "Arrival-delay-Final Analysis" contains my final analysis of clustering ~500K delay events of Translink in 2016
+* "Arrival-delay-Clusters-Analysis.pdf" is a chart depicting 'defining features'
 of each cluster.
 
 
